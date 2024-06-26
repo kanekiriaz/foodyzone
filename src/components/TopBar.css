@@ -1,0 +1,149 @@
+.top-section{
+    width: 1491x;
+    height: 241px;
+    padding: 85px 120px 31px 120px;
+    gap: 0px;
+    opacity: 0px;
+    background:rgb(48, 47, 47);
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+
+  
+}
+.name-bar{
+    width: 1200px;
+    height: 40px;
+    top: 85px;
+    left: 120px;
+    gap: 0px;
+    display: flex;
+    justify-content: space-between;
+    opacity: 0px;
+    margin-left: -300px;
+    margin-top: 50px;
+  
+   
+
+}
+.input-box{
+    width: 285px;
+    height: 39px;
+    padding: 11px 157px 10px 15px;
+    gap: 0px;
+    border-radius: 5px ;
+    border: 1px 0px 0px 0px;
+    opacity: 0px;
+    border: 1px solid #FF0909;
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 19.36px;
+    text-align: left;   
+    background:rgb(48, 47, 47);
+    color: #fff;
+    margin-right: -250px;
+}
+h3{
+    font-family: Inter;
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 40px;
+    text-align: left;
+    width: 185px;
+    height: 40px;
+    gap: 0px;
+    opacity: 0px;
+    color: #fff;
+    margin-top: 3px;
+}
+span{
+    font-family: Inter;
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 38.73px;
+    text-align: left;
+    color: red;
+}
+.items-names{
+    width: 326px;
+    height: 31px;
+    top: 179px;
+    left: 557px;
+    gap: 14px;
+    opacity: 0px;
+    display: flex;
+    justify-content: space-between;
+    
+    
+}
+.all{
+    width:43px;
+    height: 31px;
+    padding: 7px 12px 6px 6px;
+    gap: 10px;
+    border-radius: 9px;
+    opacity: 0px;
+    background: #FF4343;
+    color: #fff;
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 19.36px;
+    text-align: left;
+    
+   
+    
+
+}
+.breakfast{
+    width: 96px;
+    height: 31px;
+    padding: 3px 6px 12px 16px;
+    gap: 10px;
+    border-radius: 9px ;
+    background: #FF4343;
+    color: #fff;
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 19.36px;
+    text-align: left;
+   
+}
+.lunch{
+
+    
+    width: 71px;
+    height: 31px;
+    padding: 6px 12px 6px 12px;
+    gap: 10px;
+    border-radius: 9px;
+    opacity: 0px;
+    background: #FF4343;
+    color: #fff;
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 19.36px;
+    text-align: left;
+   
+}
+.dinner{
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: .36px;
+    text-align: left;
+    width: 74px;
+    height: 31px;
+    padding: 12px 19px 10px 12  px;
+    gap: 10px;
+    border-radius: 9px;
+    opacity: 0px;
+    background: #FF4343;
+    color: #fff;
+    
+
+}
